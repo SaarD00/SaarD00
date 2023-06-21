@@ -13,7 +13,7 @@
 
 - 🔭 Me good with current tech 
 
-- 🌱 I am 14 years old 
+- 🌱 I am 15 years old 
 - 📫 How to reach me **astrosaard@gmail.com**
 
 - 📄 Portfolio will come idk when
