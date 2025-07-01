@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Me <a href="https://thesaar.vercel.app" target="blank">
-SaarDOO</a></h1>
+<h1 align="center">Hi 👋, I am <a href="https://thesaar.vercel.app" target="blank">
+Saar</a></h1>
 <h3 align="center">Fullstack developer and desginer</h3>
 
 ![](https://komarev.com/ghpvc/?username=SaarD00&label=PROFILE+VIEWS)
